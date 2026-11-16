@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Users\\sajib\\Desktop\\Phitron\\Week_3\\Module_10\\test.c","tests":[{"id":1761116825361,"input":"Hello World","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sajib\\Desktop\\Phitron\\Week_3\\Module_10\\test.c","group":"local","local":true}

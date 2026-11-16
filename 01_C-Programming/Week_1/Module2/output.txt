@@ -1,0 +1,5 @@
+Sum = 13 
+Subtraction = 7 
+Multiplication = 30 
+Division = 3.333333 
+Modulas = 1.000000 Sum = 13 + -1015023872 = 8258
